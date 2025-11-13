@@ -1,0 +1,7 @@
+br\com\etechas\tarefas\schedule\ScheduledTask.class
+br\com\etechas\tarefas\entity\Tarefa.class
+br\com\etechas\tarefas\repository\TarefaRepository.class
+br\com\etechas\tarefas\controller\TarefaController.class
+br\com\etechas\tarefas\enums\StatusEnum.class
+br\com\etechas\tarefas\Pw3TarefasApplication.class
+br\com\etechas\tarefas\service\TarefaService.class
